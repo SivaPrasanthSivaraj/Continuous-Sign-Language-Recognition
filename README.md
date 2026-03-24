@@ -27,7 +27,7 @@ The current model is trained on 6 sentence classes:
 - `Main.ipynb`: Main end-to-end notebook for preprocessing, training, and evaluation.
 - `best_gcn_tcn_model.pth`: Best trained model checkpoint.
 - `gcn_tcn_training_history.png`: Training history curves.
-- `gcn_tcn_confusion_matrix.png`: GCN-TCN confusion matrix.
+- `confusionmatrix.png`: GCN-TCN confusion matrix.
 - `Architecture_Diagram.md`: Detailed architecture and dimension flow.
 - `EIGEN_KEYPOINT_GUIDE.md`: Explanation of eigenvalue-driven keypoint selection.
 
@@ -52,7 +52,7 @@ The current model is trained on 6 sentence classes:
 
 ### Confusion Matrix
 
-![GCN-TCN Confusion Matrix](gcn_tcn_confusion_matrix.png)
+![GCN-TCN Confusion Matrix](confusionmatrix.png)
 
 ## Tech Stack
 
